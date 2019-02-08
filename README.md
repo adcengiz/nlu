@@ -1,2 +1,2 @@
-# nlu
-Natural Language Understanding 
+# Natural Language Understanding
+Holds assignments and projects
