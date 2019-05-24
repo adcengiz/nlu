@@ -3,3 +3,12 @@
 *.txt
 assignments/assignment1/glove/
 *.tar
+labs/aclImdb/train/labeledBow.feat
+labs/aclImdb/train/labeledBow.feat
+labs/aclImdb/train/unsupBow.feat
+labs/aclImdb/test/.labeledBow.feat.icloud
+labs/aclImdb/test/labeledBow.feat
+labs/aclImdb/train/.labeledBow.feat.icloud
+labs/aclImdb/train/.unsupBow.feat.icloud
+labs/aclImdb/train/.urls_unsup.txt.icloud
+labs/aclImdb/test/labeledBow.feat
